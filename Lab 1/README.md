@@ -69,12 +69,19 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
+Setting: Classroom
+Players: Professor / Instructor, Students
+Activity: The professor / instructor has administered a poll (a survey or quiz) for students to complete on their smartphone, and the students are completing the poll on their smartphones in class.
+Goals: The goal for the professor / instructor is to gather information / test student knowledge via the poll. The goal for the students are to complete the poll on their smartphone in class. The light turns on when all students have completed the poll.
+
+
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
-
+aa653 - light on every student's desk where light can change color if student has a question / is confused, with one light as average of all signals at the front of the classroom
 
 ## Part B. Act out the Interaction
 
