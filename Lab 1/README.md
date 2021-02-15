@@ -118,11 +118,14 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 **Include your first attempts at recording the set-up video here.**
 
-
+https://drive.google.com/file/d/1nkNoLci7lPxdgkbBlhE6bbxYA9Rpr0hE/view?usp=sharing
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
+
+https://drive.google.com/file/d/1bPdBZCd4dQ-t61Rq109ocpRnp2CizqSi/view?usp=sharing
+
 
 ## Part E. Costume the device
 
@@ -143,6 +146,7 @@ The device is meant to be placed on top of a table in a classroom, so there are 
 
 **Take a video of your prototyped interaction.**
 
+https://drive.google.com/file/d/1pSIihvaKv7guf_l0ziK1bynZTJ3g4kRG/view?usp=sharing
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
