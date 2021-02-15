@@ -140,9 +140,9 @@ The device is meant to be placed on top of a table in a classroom, so there are 
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 I collaborated with the following individuals:
-Niki Agrawal, aa653
-Ritika Poddar, rp477
-Cheng-Wei Hu, ch956
+- Niki Agrawal, aa653
+- Ritika Poddar, rp477
+- Cheng-Wei Hu, ch956
 
 
 # Staging Interaction, Part 2 
