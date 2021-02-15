@@ -81,7 +81,7 @@ Goals: The goal for the professor / instructor is to gather information / test s
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
-![Storyboard](https://https://github.com/jshaffer47/Interactive-Lab-Hub/edit/Spring2021/Lab%201/Storyboard.jpg)
+![Storyboard](Storyboard.jpg)
 
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
