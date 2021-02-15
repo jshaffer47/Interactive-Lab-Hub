@@ -95,9 +95,11 @@ aa653 - There should be a light on every student's desk where the light can chan
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 **Are there things that seemed better on paper than acted out?**
+
 No, the interaction worked as planned, although the interactive device is perhaps a bit too simple for potential use-cases (more on this below).
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
 Inspired by feedback that my classmate aa653 mentioned earlier (her feedback is summarized above), I would like to expand the functionality of this interactive device. In brief, the device should glow blue when the poll / quiz has started, indicating to students they can start. If all students have completed the task, the device will glow yellow. If the professor has set a time limit for the task, the device should glow orange when there is one minute left, and then pink when time is up. The professor can set a time limit for the task.
 
 ## Part C. Prototype the device
@@ -116,7 +118,9 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 **Include your first attempts at recording the set-up video here.**
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
 
@@ -128,7 +132,11 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+![Storyboard](device_design.jpg)
+
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+
 The device is meant to be placed on top of a table in a classroom, so there are no specific concerns regarding the environment. It should be water resistant in case someone spills water on it and should be somewhat drop-tolerant in case it gets knocked off of the table.
 
 ## Part F. Record
