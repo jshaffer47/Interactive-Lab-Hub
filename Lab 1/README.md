@@ -70,27 +70,35 @@ The interactive device can be anything *except* a computer, a tablet computer or
 **Describe your setting, players, activity and goals here.**
 
 Setting: Classroom
+
 Players: Professor / Instructor, Students
+
 Activity: The professor / instructor has administered a poll (a survey or quiz) for students to complete on their smartphone, and the students are completing the poll on their smartphones in class.
-Goals: The goal for the professor / instructor is to gather information / test student knowledge via the poll. The goal for the students are to complete the poll on their smartphone in class. The light turns on when all students have completed the poll.
+
+Goals: The goal for the professor / instructor is to gather information / test student knowledge via the poll. The goal for the students are to complete the poll on their smartphone in class. The light turns on when all students have completed the poll, so the professor knows she can move on in her lecture.
 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
+![Storyboard](https://https://github.com/jshaffer47/Interactive-Lab-Hub/edit/Spring2021/Lab%201/Storyboard.jpg)
+
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
-aa653 - light on every student's desk where light can change color if student has a question / is confused, with one light as average of all signals at the front of the classroom
+
+aa653 - There should be a light on every student's desk where the light can change color if a student has a question or is confused, with one light as the "average" of all signals at the front of the classroom.
+
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 **Are there things that seemed better on paper than acted out?**
+No, the interaction worked as planned, although the interactive device is perhaps a bit too simple for potential use-cases (more on this below).
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
-
+Inspired by feedback that my classmate aa653 mentioned earlier (her feedback is summarized above), I would like to expand the functionality of this interactive device. In brief, the device should glow blue when the poll / quiz has started, indicating to students they can start. If all students have completed the task, the device will glow yellow. If the professor has set a time limit for the task, the device should glow orange when there is one minute left, and then pink when time is up. The professor can set a time limit for the task.
 
 ## Part C. Prototype the device
 
@@ -100,6 +108,8 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
+
+The tool worked well for me - very cool!
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -119,14 +129,21 @@ Think about the setting of the device: is the environment a place where the devi
 **Include sketches of what your device might look like here.**
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
-
+The device is meant to be placed on top of a table in a classroom, so there are no specific concerns regarding the environment. It should be water resistant in case someone spills water on it and should be somewhat drop-tolerant in case it gets knocked off of the table.
 
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
 
+
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+I collaborated with the following individuals:
+Niki Agrawal, aa653
+Ritika Poddar, rp477
+Cheng-Wei Hu, ch956
+
 
 # Staging Interaction, Part 2 
 
