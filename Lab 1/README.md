@@ -168,6 +168,8 @@ You will be assigned three partners from another group. Go to their github pages
 
 **Summarize feedback from your partners here.**
 
+Lab 1 Part 1 feedback posted here: https://github.com/jshaffer47/Interactive-Lab-Hub/discussions/3
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
